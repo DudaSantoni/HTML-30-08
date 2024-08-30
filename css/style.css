@@ -1,0 +1,61 @@
+.menu{
+   display: flex;
+   gap: 50px;
+   justify-content: center;
+   list-style: none;
+   background-color: black;
+   color: aliceblue;
+   font-size: 2em;
+   padding: 10px 10px 10px 10px;
+}
+
+.menu1{
+    display: flex;
+    gap: 50px;
+    justify-content: start;
+    list-style: none;
+    background-color: black;
+    color: aliceblue;
+    font-size: 2em;
+    padding: 10px 10px 10px 10px;
+ }
+ .menu2{
+    display: flex;
+    gap: 50px;
+    justify-content: end;
+    list-style: none;
+    background-color: black;
+    color: aliceblue;
+    font-size: 2em;
+    padding: 10px 10px 10px 10px;
+ }
+ .menu3{
+    display: flex;
+    gap: 50px;
+    justify-content: space-between;
+    list-style: none;
+    background-color: black;
+    color: aliceblue;
+    font-size: 2em;
+    padding: 10px 10px 10px 10px;
+ }
+ .menu4{
+    display: flex;
+    gap: 50px;
+    justify-content: space-around;
+    list-style: none;
+    background-color: black;
+    color: aliceblue;
+    font-size: 2em;
+    padding: 10px 10px 10px 10px;
+ }
+ .menu5{
+    display: flex;
+    gap: 50px;
+    justify-content: space-evenly;
+    list-style: none;
+    background-color: black;
+    color: aliceblue;
+    font-size: 2em;
+    padding: 10px 10px 10px 10px;
+ }
